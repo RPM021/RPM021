@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0533,100:0d1117&height=300&section=header&text=RPM021&fontSize=90&fontColor=bf94ff&fontAlignY=50&animation=fadeIn&desc=//%20full-stack%20dev%20%7C%20PH-based%20%7C%20always%20shipping&descSize=18&descFontColor=5dcaa5&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,70:0d2a1a,100:0d1117&height=280&section=header&text=RPM021&fontSize=90&fontColor=bf94ff&fontAlignY=42&animation=fadeIn&desc=//%20full-stack%20dev%20%7C%20PH-based%20%7C%20always%20shipping&descSize=16&descFontColor=5dcaa5&descAlignY=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BF94FF&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22RPM021%22;Building+real+products+for+real+clients.;Next.js+%7C+Firebase+%7C+TypeScript;Always+shipping.+Never+stopping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=BF94FF&center=true&vCenter=true&random=false&width=620&height=56&lines=const+dev+%3D+%22RPM021%22+%F0%9F%9A%80;Building+real+products+for+real+clients.;Next.js+%7C+Firebase+%7C+TypeScript+%7C+Tailwind;Always+shipping.+Never+stopping.;%2F%2F+based+in+PH+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,13 +16,15 @@
 
 <br/>
 
+<picture>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</picture>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-
 ### `▸ whoami`
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
@@ -74,7 +76,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RPM021&bg_color=0d1117&color=bf94ff&line=5dcaa5&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RPM021&bg_color=0d1117&color=bf94ff&line=5dcaa5&point=ffffff&hide_border=true&area=true&area_color=1a0533" />
 </div>
 
 <br/>
@@ -105,5 +107,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0533,100:0d1117&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,70:0d2a1a,100:0d1117&height=120&section=footer&animation=fadeIn" />
 </div>
