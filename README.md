@@ -1,86 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hey%20there%2C%20I'm%20RPM021%20🚀&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:ff00cc,100:00ffcc&height=300&section=header&text=Hey%20there%2C%20I'm%20RPM021%20%F0%9F%9A%80&fontSize=90&fontColor=ffffff&animation=twinkling&desc=Building%20the%20Future%20One%20Commit%20at%20a%20Time&descAlign=center&descSize=28" alt="Header" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/RPM021"><img src="https://img.shields.io/github/followers/RPM021?label=Followers&style=for-the-badge&logo=github&color=ff69b4" /></a>
-  <a href="https://github.com/RPM021"><img src="https://komarev.com/ghpvcounter/?username=RPM021&style=for-the-badge&color=00ff9f" /></a>
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-blueviolet?style=for-the-badge" />
+  <a href="https://github.com/RPM021"><img src="https://img.shields.io/github/followers/RPM021?label=Followers&style=for-the-badge&logo=github&color=ff00cc" /></a>
+  <img src="https://komarev.com/ghpvcounter/?username=RPM021&style=for-the-badge&color=00ffcc&label=Profile%20Views" />
+  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-purple?style=for-the-badge&logo=rocket" />
 </p>
 
 ---
 
-### 👋 Welcome to My Digital Workshop
+### 👾 Welcome to the Matrix
 
-**Software Engineer turning coffee into code** ☕ → 💻  
-Passionate about crafting **scalable**, **beautiful**, and **impactful** digital experiences. Currently collaborating with clients on real-world solutions while building my open-source legacy.
+**Software Engineer | Code Alchemist | Future Shaper**  
+Turning ☕ into ⚡ scalable, beautiful, and impactful solutions.
 
----
-
-### 🔥 Currently Building
-
-- **Client Collaboration** (Private) — Delivering high-impact features using modern tech stacks for [industry/client type].
-- Multiple upcoming public repos focused on [your focus areas — e.g., full-stack apps, developer tools, AI integrations, etc.].
-
-**Watch this space** — big things incoming! ⚡
+Currently collaborating with a **real client** on production-grade systems while preparing multiple public repos that will drop soon.
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🔥 Currently Shipping
+
+- **Client Collaboration** → High-impact features for a live project (NDA protected)
+- Multiple **public repos** in development — stay tuned for tools, apps, and libraries!
+
+---
+
+### 🛠️ **ULTIMATE TECH ARSENAL**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,node,express,python,docker,aws,postgres,mongodb,git,tailwind,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,docker,kubernetes,aws,postgres,mongodb,redis,tailwind,figma,git&perline=9" />
 </p>
 
-*(Replace the icons list above with your actual skills — visit [skillicons.dev](https://skillicons.dev) for the full list)*
+*(Update the list above at [skillicons.dev](https://skillicons.dev) with your real stack)*
 
 ---
 
-### 📊 GitHub Galaxy Stats
+### 📊 **EPIC GITHUB STATS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RPM021&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPM021&layout=compact&theme=radical&hide_border=true" height="170" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RPM021&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="190" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPM021&layout=compact&theme=dracula&hide_border=true" height="190" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RPM021&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RPM021&theme=dracula&hide_border=true" alt="Streak" />
 </div>
+
+---
+
+### 🏆 Trophies & Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RPM021&theme=dracula&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
 
 ---
 
 ### 🌟 Featured & Upcoming Projects
 
-- **[Project Name]** — *One-line killer description*  
-  **Tech:** React, Node.js, etc. | **Status:** In Progress 🔥
-
-- **Client Project** — Delivered [key outcome] for a real client. (Details available upon request)
-
-- More awesome repos dropping soon...
+- **Client Project** → Delivered real business value using modern architecture (details on request)
+- **[Project Name 1]** — *Killer one-liner description* 🔥
+- **[Project Name 2]** — *Another exciting project incoming*
+- More dropping soon...
 
 ---
 
-### 🎯 Goals & Vision
+### 🎯 Mission & Vision
 
-- Build tools that actually solve problems  
-- Contribute meaningfully to open source  
-- Keep leveling up skills and shipping fast  
-- Collaborate with cool people on exciting projects
+- Ship **clean, performant, and maintainable** code
+- Contribute to open source and help other developers
+- Keep pushing the boundaries of what’s possible
+- Collaborate with awesome people
 
 ---
 
-### 📬 Let's Connect & Build Something Awesome
+### 📬 Let's Build Something Legendary
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOURHANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-> *"The best code is written with passion and shipped with purpose."*
+> **"Code isn't just instructions — it's digital magic that shapes reality."** ✨
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=Thanks%20for%20stopping%20by%21%20⭐&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting%21%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff" />
 </div>
